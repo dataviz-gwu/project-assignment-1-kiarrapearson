@@ -1,0 +1,22 @@
+---
+title: "Project-Assignment-1"
+author: "Kiarra Pearson"
+format: html
+editor: visual
+---
+
+## Step 1: think about a layout for your app 
+I am interested in the apps that are designed for teaching.The first app that I am interested in is the Didactic modeling process (https://shiny.posit.co/r/gallery/education/didacting-modeling/) because educators and researchers use it to learn more about understanding the relationships between variables and different educational contexts among many other factors such as program evaluation and evidence-based decision making. The other app that interests me is the Dashboard for Conference Tweets (https://shiny.posit.co/r/gallery/miscellaneous/conference-tweet-dashboard/) because it combines contextualizing data such as tweets and insights with storytelling. 
+
+## Step 2: Think about the basic content (25 pts)
+An interesting subject matter that I would like to have my user explore is student performance in STEM education. They could explore the relationships between student demographics (gender or ethnicity) and performance in STEM courses. For the app, I could use the World Development if Indicators which includes a collection of data used to analyze trends in educational outcomes across different regions and groups. WDI is primarily used to investigate the relationships between education and explores patterns in education equity. 
+
+## Step 3: Think about the visualization (25 pts)
+A scatter plat would be useful for visualizing the relationship between two variables (i.e, test scores and study hours), or a map which can be useful for displaying geographical variations in STEM data (i.e, using choropleth maps to represent STEM enrollment rates or educational attainment levels across different regions or countries.)
+
+
+## Step 4: Think about user input
+A user would use filters to display specific data on map such as location, age/grade levels, gender, race, and performance metrics,a nd subject areas. users can customize their exploration, uncover patterns, identify disparities, and gain insights into specific aspects of education or STEM fields that align with their research, analysis, or policy-making objectives.
+
+
+
